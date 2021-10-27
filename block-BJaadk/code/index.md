@@ -102,4 +102,4 @@ function add(accumulator, currentValue) {
 }
 let sum = numbers.reduce(add);
 ```
-![](./img/reduce-consolelog.png)
+![](./img/redduce-consolelog.png)
